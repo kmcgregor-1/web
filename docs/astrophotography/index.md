@@ -1,6 +1,6 @@
 # Astrophotography
 
-In my spare time I am an amateur astrophotographer! Here are some examples of my favorite captures.K
+In my spare time I am an amateur astrophotographer! Here are some examples of my favorite captures.
 
 ## Comet C/2023 A3 (Tsuchinshan-ATLAS)
 ![Comet C/2023 A3 (Tsuchinshan-ATLAS)](../media/CometC:2023A3(Tsuchinshan-ATLAS).JPG "Comet C/2023 A3 (Tsuchinshan-ATLAS)"){align="center": style="height:500;width:500px"}
