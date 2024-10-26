@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Kyle McGregor
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://kmcgregor-1.github.io/ # must have the trailing slash
+site_author: Kyle McGregor (kyle.mcgregor@mail.mcgill.ca)
+site_description: Kyle McGregor's Personal Website
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Kyle McGregor <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -17,7 +17,7 @@ theme:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: red
         # Link highlight color
         accent : orange
         
@@ -54,11 +54,12 @@ extra_javascript:
 
 
 # For describing the navigation panel
-nav:
+nav: #relative to the docs folder
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
   - Projects: projects/index.md
+  - Astrophotography: astrophotography/index.md
 
 # Extensions that we want to use
 markdown_extensions:
