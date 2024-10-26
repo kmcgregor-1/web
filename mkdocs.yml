@@ -57,7 +57,7 @@ extra_javascript:
 nav: #relative to the docs folder
   - Home: index.md
   - About Me: about/index.md
-  - Research: reasearch/index.md
+  - Research: research/index.md
   - Projects: projects/index.md
   - Astrophotography: astrophotography/index.md
 
